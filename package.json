@@ -1,0 +1,23 @@
+{
+    "name": "js3-browser-vs-nodejs-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GromakMaxim/js3-browser-vs-nodejs-TEST.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GromakMaxim/js3-browser-vs-nodejs-TEST/issues"
+    },
+    "homepage": "https://github.com/GromakMaxim/js3-browser-vs-nodejs-TEST#readme",
+    "dependencies": {
+        "@gromakmaxim/js3-browser-vs-nodejs": "github:GromakMaxim/js3-browser-vs-nodejs"
+    }
+}
